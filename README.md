@@ -1,10 +1,11 @@
 # AfriTech Brand Health & Product Risk Assessment  
 *A Data-Driven Evaluation of Customer Experience, Product Performance & Market Perception*
 
-🔗 **Power BI Dashboard:** _Coming Soon_  
-Interactive analytics built using SQL insights, DAX modeling, and imported analytical tables.
 
----
+Interactive analytics built using SQL insights, DAX modeling, and imported analytical tables
+
+
+<img width="1140" height="799" alt="Screenshot 2025-11-12 210854" src="https://github.com/user-attachments/assets/bf0c4300-236d-4cae-bef0-d69e1d08d426" />
 
 ## 📌 Table of Contents
 - [Description](#description)
@@ -131,9 +132,7 @@ Some outputs (NPS, SOV, sentiment) were imported **directly** from SQL into Powe
 
 #### ✔ Created a Complete Date Table  
 Enabled:
-- Weekly, Monthly, Quarterly trends  
-- Time intelligence (YoY, MoM)  
-- Rolling periods  
+- Weekly, Monthly, Quarterly trends    
 
 #### ✔ Imported SQL Tables
 - NPS scoring table  
@@ -162,6 +161,8 @@ Enabled:
 
 ---
 
+<img width="1142" height="799" alt="Screenshot 2025-11-12 211014" src="https://github.com/user-attachments/assets/0086ee2c-9d2e-43b2-8521-71c9e7cf9409" />
+
 ## Key Insights
 
 ### ⭐ **200 Customers Across 49 Regions**
@@ -188,6 +189,7 @@ It is both the **top-selling** and **most-recalled** product.
 Volume is strong, but sentiment is weak.
 
 ---
+<img width="1145" height="807" alt="Screenshot 2025-11-12 211204" src="https://github.com/user-attachments/assets/0ec8d544-8c04-46f7-b806-f98a6c1881ef" />
 
 ## Recommendations
 
